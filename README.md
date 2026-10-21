@@ -66,7 +66,7 @@ The history and extra trivia come from the fan wiki, [Virtual YouTuber Wiki](htt
 # 📩 **TAKEDOWN**
 
 > [!NOTE]
-> If you are a copyright holder (COVER Corp., 時雨乃彩, or anyone else) and object to any content in this repository, please contact the repository owner through GitHub. The content in question will be removed promptly.
+> If you are a copyright holder (COVER Corp., 時雨乃彩, or anyone else) and object to any content in this repository, please contact the repository owner through GitHub or mashiro.oka.ac@gmail.com. The content in question will be removed promptly.
 
 ---
 

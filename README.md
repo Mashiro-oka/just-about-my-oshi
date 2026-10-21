@@ -36,7 +36,7 @@ The profile on this site follows the official hololive production page and is pr
 > [!CAUTION]
 > The artwork **must NOT** be taken, copied, or reused from this repository without direct permission from the original creator.
 
-All featured artwork is used **with permission from [時雨乃彩](https://www.pixiv.net/en/users/6476100)**.
+All featured artwork is used **with permission from [時雨乃彩](https://www.pixiv.net/en/users/126139988)**.
 
 ## 📖 **Content sources**
 
@@ -59,7 +59,7 @@ The history and extra trivia come from the fan wiki, [Virtual YouTuber Wiki](htt
 
 ## 🎨 **Artist**
 
-- 🖌️ [時雨乃彩 — pixiv profile](https://www.pixiv.net/en/users/6476100)
+- 🖌️ [時雨乃彩 — pixiv profile](https://www.pixiv.net/en/users/126139988)
 
 ---
 

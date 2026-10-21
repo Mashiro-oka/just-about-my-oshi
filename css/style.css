@@ -460,7 +460,7 @@ main > section {
         entry 0% entry 40%,
         exit 45% exit 100%;
     }
-    :is(main > section > :not(.timeline, .reasons, .plain), .timeline > li, .reasons > li, .plain > li, .site-footer p):nth-child(even) {
+    :is(main > section > :not(.plain), .plain > li, .site-footer p):nth-child(even) {
       --from: 2.5rem;
     }
   }

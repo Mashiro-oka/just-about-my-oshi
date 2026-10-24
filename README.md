@@ -70,4 +70,6 @@ The history and extra trivia come from the fan wiki, [Virtual YouTuber Wiki](htt
 
 ---
 
+This is a beginner’s learning project, so there may be mistakes in the code, credits, or source links. Corrections are very welcome, and I’ll fix anything reported. Thank you for your understanding!
+
 Made with love by an Onigiryaa 🍙
